@@ -40,7 +40,7 @@
 
 * Es indispensable comprender el significado que tienen las leyes de Kirchhoff, debido a que, la medición tanto de corrientes como de voltajes, dependen de las mismas para sus sumas respectivamente.
 
-*
+* Gracias a las temáticas que se encuentran incluidas en cada capítulo del presente informe, es posible adquirir bases fundamentales que facilitan el entendimiento y refuerzan el conocimiento de la asignatura.
 
 
 ## 7. BIBLIOGRAFÍA
