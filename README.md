@@ -2,7 +2,7 @@
 
 # Práctica No. 1
 
-## **1. Objetivos**
+## **1. OBJETIVOS**
 
 ### **1.1 Objetivo general**
 
@@ -18,11 +18,11 @@
 
 * Experimentar a través de los simuladores las herramientas de medición
 
-## 2. Marco Teórico
+## 2. MARCO TEÓRICO 
 
 ![](https://github.com/Jhosu115/Taller/blob/main/imagen_2021-06-01_220100.png)
 
-## 3. Explicación del Procedimiento
+## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 [Explicación del Procedimiento](https://github.com/Jhosu115/Taller/blob/main/EXPLICACIÓN%20DEL%20PROCEDIMIENTO.pdf)
 
@@ -40,7 +40,7 @@
 
 
 
-
+## 7. BIBLIOGRAFÍA
 
 
 
