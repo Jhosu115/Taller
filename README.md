@@ -10,7 +10,7 @@
 
 ### **1.2 Objetivos Específicos**
 
-* Emplear los conicimientos adquiridos en clase 
+* Emplear los conocimientos adquiridos en clase 
 
 * Indagar en fuentes web conceptos que ayuden al entendimiento de la asignatura 
 
@@ -31,11 +31,11 @@
 
 ## 5. VIDEO
 
-[![Video de la explicacion de 4 ejercicios](https://github.com/Jhosu115/Tarea-1-/blob/imagen/Diapositiva1.PNG)](https://youtu.be/e4x5IgEhtTo)
+[![Video Del Simulador](https://github.com/Jhosu115/Taller/blob/main/Diapositiva1%20(1).PNG)](https://youtu.be/e4x5IgEhtTo)
 
 ## 6. CONCLUSIONES
 
-* Tras Analizar los ejercicois se conluyó que 
+* Gracias a las diferentes herramientas tecnologicas como simuladores y páginas web que ofrece el internet y que se empleo en el presente trabajo, fue posible culminar con los ejercicios planteados previamente, mismo que servirán para facilitar la comprension de la materia de fundamentos y circuitos eléctricos.
 
 
 
