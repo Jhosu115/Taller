@@ -28,6 +28,7 @@
 
 ## 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+[Resolución de las interrogastes propuestas]()
 
 ## 5. VIDEO
 
