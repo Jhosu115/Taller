@@ -38,9 +38,22 @@
 
 * Gracias a las diferentes herramientas tecnologicas como simuladores y páginas web que ofrece el internet y que se empleo en el presente trabajo, fue posible culminar con los ejercicios planteados previamente, mismo que servirán para facilitar la comprension de la materia de fundamentos y circuitos eléctricos.
 
+* Es indispensable comprender el significado que tienen las leyes de Kirchhoff, debido a que, la medición tanto de corrientes como de voltajes, dependen de las mismas para sus sumas respectivamente.
+
+*
 
 
 ## 7. BIBLIOGRAFÍA
+
+* https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
+
+* https://www.edumedia-sciences.com/es/media/510-leyes-de-kirchhoff#:~:text=La%20ley%20de%20nodos%20o,cerrado%20es%20igual%20a%20cero
+
+* https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+* https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
+* https://electronicacompleta.com/leyes-de-kirchhoff/
 
 
 
