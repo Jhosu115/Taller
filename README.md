@@ -20,3 +20,26 @@
 
 ## 2. Marco Teórico
 
+![](https://github.com/Jhosu115/Taller/blob/main/imagen_2021-06-01_220100.png)
+
+## 3. Explicación del Procedimiento
+
+
+
+## 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
+## 5. VIDEO
+
+[![Video de la explicacion de 4 ejercicios](https://github.com/Jhosu115/Tarea-1-/blob/imagen/Diapositiva1.PNG)](https://youtu.be/e4x5IgEhtTo)
+
+## 6. CONCLUSIONES
+
+* Tras Analizar los ejercicois se conluyó que 
+
+
+
+
+
+
+
