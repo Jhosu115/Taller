@@ -24,7 +24,7 @@
 
 ## 3. Explicación del Procedimiento
 
-[Explicación del Procedimiento]()
+[Explicación del Procedimiento](https://github.com/Jhosu115/Taller/blob/main/EXPLICACIÓN%20DEL%20PROCEDIMIENTO.pdf)
 
 ## 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
