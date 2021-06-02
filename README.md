@@ -24,11 +24,11 @@
 
 ## 3. Explicación del Procedimiento
 
-
+[Explicación del Procedimiento]()
 
 ## 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-[Resolución de las interrogastes propuestas]()
+[Resolución de las interrogastes propuestas](https://github.com/Jhosu115/Taller/blob/main/Variables.pdf)
 
 ## 5. VIDEO
 
